@@ -18,5 +18,4 @@
 # 자격증
 * 정보처리기사 필기합격 (2023.08)
 # 프로젝트
-* 하이트립
-* 
+* 하이트립 (https://github.com/Malvin222/Project_HITRIP)
