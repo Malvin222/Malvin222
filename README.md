@@ -21,7 +21,7 @@
 * HITRIP 여행 웹사이트
   (2023-08-01 ~ 2023-09-01)
 
-  [상세 설명](https://github.com/Malvin222/Project_HITRIP)
+  [상세 설명](https://github.com/Malvin222/Project_HITRIP#readme)https://github.com/Malvin222/Project_HITRIP#readme)
 
 # 연락처
  * mahebin@naver.com
