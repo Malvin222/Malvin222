@@ -15,7 +15,12 @@
 ![egovframework](https://img.shields.io/badge/egovframework-2C2255?style=for-the-badge&logoColor=black)
 </div>
 
+#
+
 # 자격증
 * 정보처리기사 필기합격 (2023.08)
+
 # 프로젝트
-* 하이트립 (https://github.com/Malvin222/Project_HITRIP)
+* HITRIP 여행 웹사이트
+  > 2023.08.01 ~ 09.01 <br>[상세 설명](https://github.com/Malvin222/Project_HITRIP)
+
