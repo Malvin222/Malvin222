@@ -1,6 +1,6 @@
 # 마해빈(Ma Haebin) 1992.11.05
 💻Web Developer <br>
-*걸음마 떼기 시작한 신입 백엔드개발자입니다.
+* 걸음마 떼기 시작한 신입 백엔드 개발자입니다.
 
 # 언어 및 도구
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
