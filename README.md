@@ -13,7 +13,7 @@
 ![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
-
+![egovframework](https://img.shields.io/badge/egovframework-F80000?style=for-the-badge&logoColor=navy)
 </div>
 
 # 자격증
