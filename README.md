@@ -33,9 +33,9 @@
 ### 기타 경험
 | 영동대학교 총학생회 임원 (사무행정국장) 2016년도 | 하이미디어컴퓨터학원 구리점 수강생인터뷰 (2023년도) |
 |:---:|:---:|
-| <img src="https://github.com/Malvin222/Malvin222/assets/127707299/21508fd5-9ec2-4554-8417-b3cc485ae5ee" width="250" height="200" alt="image"> | <img src="https://github.com/Malvin222/Malvin222/assets/127707299/2723a41f-6218-4eae-b463-f8c552bad1e9" width="200" alt="image"><br>[수강생 인터뷰](https://guri.himedia.co.kr/Community/interview_view/students/202) |
+| <img src="https://github.com/Malvin222/Malvin222/assets/127707299/c75bd94a-f9b9-4095-982d-eebb6ecceb18" width="250" height="200" alt="image"> | <img src="https://github.com/Malvin222/Malvin222/assets/127707299/6060d12b-2d88-4d26-b78f-a2bf7bb7e023" width="200" alt="image"><br>[수강생 인터뷰](https://guri.himedia.co.kr/Community/interview_view/students/202) |
 | **씨유펫 다산중앙공원점 (점장)**  | |
-| <img src="https://github.com/Malvin222/Malvin222/assets/127707299/5a96b205-e57a-4b8f-be47-ea03250e09e8" width="200" alt="image"> |  |
+| <img src="https://github.com/Malvin222/Malvin222/assets/127707299/1ddea5e3-2247-4738-b38b-eca608698dd4" width="200" alt="image"> |  |
 
 ### 연락처
  * mahebin@naver.com
