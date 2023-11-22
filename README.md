@@ -7,9 +7,9 @@
 💻Backend
 <br>
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![egovframework](https://img.shields.io/badge/egovframework-2C2255?style=for-the-badge&logoColor=black)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![egovframework](https://img.shields.io/badge/egovframework-2C2255?style=for-the-badge&logoColor=black)
 <br>
 🖱Frontend
 <br>
