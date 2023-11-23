@@ -55,7 +55,7 @@
  * 프린터 렌탈 웹페이지
    (2023-11-01 ~ 2023-11-15)
    - [상세설명](https://github.com/Malvin222/Rental_Web)
-   - [사이트](http://ec2-15-164-224-112.ap-northeast-2.compute.amazonaws.com:8080)
+<!-- - [사이트](http://ec2-15-164-224-112.ap-northeast-2.compute.amazonaws.com:8080) -->
 
 ### 이력
 * 구리 하이미디어 아카데미(자바기반 풀스택 웹개발자과정)
