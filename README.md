@@ -35,6 +35,7 @@
 <br>
 ![intellijidea](https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -49,18 +50,21 @@
  
 
 ### 프로젝트
-* HITRIP 여행 웹사이트
-  (2023-08-01 ~ 2023-09-01)
-  - [상세 설명](https://github.com/Malvin222/Project_HITRIP#readme)
  * 프린터 렌탈 웹페이지
    (2023-11-01 ~ 2023-11-15)
    - [상세설명](https://github.com/Malvin222/Rental_Web)
+* HITRIP 여행 웹사이트
+  (2023-08-01 ~ 2023-09-01)
+  - [상세 설명](https://github.com/Malvin222/Project_HITRIP#readme)
+
 <!-- - [사이트](http://ec2-15-164-224-112.ap-northeast-2.compute.amazonaws.com:8080) -->
 
 ### 이력
 * 구리 하이미디어 아카데미(자바기반 풀스택 웹개발자과정)
   (2023-04 ~ 2023-09)
   - [학습내용](https://github.com/Malvin222/himedia)
+  <img src = "https://github.com/Malvin222/Malvin222/assets/127707299/8ad96bdf-849c-483a-862c-c1a029f8f9a8" width="200" height="250" alt="image">
+
 
 
 ### 기타 경험
