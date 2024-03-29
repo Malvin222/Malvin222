@@ -51,12 +51,17 @@
  
 
 ### 프로젝트
- * 프린터 렌탈 웹페이지
+* MUNG 반려견 사료 검색 사이트
+  (2024.01.15 ~ 01.25)
+  - [상세 설명](https://github.com/Malvin222/Project_Mung)
+* 프린터 렌탈 웹페이지
    (2023-11-01 ~ 2023-11-15)
    - [상세설명](https://github.com/Malvin222/Rental_Web)
 * HITRIP 여행 웹사이트
   (2023-08-01 ~ 2023-09-01)
   - [상세 설명](https://github.com/Malvin222/Project_HITRIP#readme)
+
+
 
 <!-- - [사이트](http://ec2-15-164-224-112.ap-northeast-2.compute.amazonaws.com:8080) -->
 
