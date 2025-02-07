@@ -71,6 +71,7 @@
   (2023-04 ~ 2023-09)
   - [학습내용](https://github.com/Malvin222/himedia)
   <img src = "https://github.com/Malvin222/Malvin222/assets/127707299/8ad96bdf-849c-483a-862c-c1a029f8f9a8" width="200" height="250" alt="image">
+  <img src = "https://github.com/user-attachments/assets/091de836-4e03-4b73-a494-c2f62d79a207" width="200" height="250" alt="image">
 
 
 
